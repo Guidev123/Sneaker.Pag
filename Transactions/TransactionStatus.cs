@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sneaker.Pag
+namespace Sneaker.Pag.Transactions
 {
     public enum TransactionStatus
     {

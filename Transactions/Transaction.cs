@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sneaker.Pag
+namespace Sneaker.Pag.Transactions
 {
     public class Transaction
     {
@@ -21,7 +21,7 @@ namespace Sneaker.Pag
 
         public int SubscriptionId { get; set; }
 
-        public TransactionStatus Status { get; set; } 
+        public TransactionStatus Status { get; set; }
 
         public int AuthorizationAmount { get; set; }
 

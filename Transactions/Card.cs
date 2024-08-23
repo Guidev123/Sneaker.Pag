@@ -1,7 +1,7 @@
 ﻿using System.Security.Cryptography;
 using System.Text;
 
-namespace Sneaker.Pag
+namespace Sneaker.Pag.Transactions
 {
     public class CardHash
     {
